@@ -1,7 +1,9 @@
-.title {
-    color: aquamarine;
-}
+
 .header__nav {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
+}
+.header__logo {
+    max-width: 100%;
+    height: auto;
 }
